@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.omtamil.ilakkiyam" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>Ilakkiyam</name>
+    <description>
+        Mobile App
+    </description>
+    <author email="muhelen@omtamil.com" href="http://muhelen.com">
+        MUHELEN MURUGAN
+    </author>
+    <content src="index.html" />
+    <access origin="*" />
+    <icon src="icon.png" />
+    <gap:plugin name="cordova-plugin-whitelist" source="npm" />
+</widget>
